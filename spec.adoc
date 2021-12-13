@@ -1,0 +1,5 @@
+= CDB Profile Specification
+
+This document is the normative specification of requirements, validation tests and other data elements of the CDB Profile.
+
+NOTE: clearly this document is a stub. See back here in later December 2021 / early January 2022 for progress.

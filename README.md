@@ -12,7 +12,7 @@ This profile is defined using elements from the [Profiles Vocabulary](https://ww
 
 This profile is part of a series of "fundamental profiles" which are generally applicable profiles for Internet-based data, see https://w3id.org/profile/. This profile's own identifier is:
 
-* **https://w3id.org/profile/cbd**
+* **<https://w3id.org/profile/cbd>**
 
 ## Use
 
@@ -20,13 +20,13 @@ Read the [Specification Document](spec.adoc).
 
 ## License & Rights
 
-This profile was created by Nicholas Car, 2021, and is available for use under the conditions of the BSD "3-Clause" license, a copy of which is in thir repository in the [LICENSE](LICENSE) file.
+This profile was created by Nicholas Car, 2021, and is available for use under the conditions of the BSD "3-Clause" license, a copy of which is in this repository in the [LICENSE](LICENSE) file.
 
 ## Contact
 
 Please contact the following for all matters:
 
 **Nicholas J. Car**  
-*Data Systems ARchitect*  
-SURROUND Australia Pty Ltd.  
-nicholas.car@surroundaustralia.com 
+*Data Architect*  
+[Kurrawong AI](https://kurrawong.net)  
+<nick@kurrawong.net>
